@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019240560786",
+    "project_id": "firestore-chat-7f4cb",
+    "storage_bucket": "firestore-chat-7f4cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019240560786:android:90972ab09a839df53e0e4b",
+        "android_client_info": {
+          "package_name": "com.virtualstudios.firestorechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019240560786-dttbfg2jitd0j4p1g3a3apfmrnrpld0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwk1M8eGf47HOXqByksP3Stv9xzkutups"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019240560786-dttbfg2jitd0j4p1g3a3apfmrnrpld0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
