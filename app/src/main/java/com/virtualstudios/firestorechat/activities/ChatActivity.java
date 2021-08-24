@@ -249,6 +249,7 @@ public class ChatActivity extends BaseActivity {
 
     private void loadReceiverDetails(){
         receiverUser = (User) getIntent().getSerializableExtra(Constants.KEY_USER);
+        Log.d("CHAT", "loadReceiverDetails: "+getIntent().getSerializableExtra(Constants.KEY_USER));
         if (receiverUser != null) {
             binding.textName.setText(receiverUser.name);
         }
